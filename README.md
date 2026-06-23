@@ -25,9 +25,12 @@ Named for Ada Lovelace — the first computer programmer.
 
 Navigating the Adaptavist portfolio requires context that most people don't have, and shouldn't need to have.
 
-- **New starters** spend 30–90 days just learning what each product does
-- **CSMs and sales reps** default to asking a senior colleague whenever a customer problem doesn't map neatly to a product
-- **Solution Engineers** get pulled in early just to answer "which product is this?"
+* Customers don't know which products will solve their problems
+* Internal teams don't know whether we can do what the customer is asking
+* Some teams may not understand the customer question - so Ada can help understand this
+* Teams may not know when to bring in other colleauges to get the most out of the customer interactions
+* Sales teams and Channel Partners can't possibly remember everything about every single product
+* Channel Partners sell so many products - how do they know what Adaptavist does?
 
 The result: underutilised products, missed cross-sell opportunities, and a portfolio that looks more complex than it needs to be.
 
