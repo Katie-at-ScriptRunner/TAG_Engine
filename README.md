@@ -3,7 +3,7 @@
 > **⚠️ Backup:** If the Adaptaworks platform is unavailable, a static version of the project is hosted on GitHub Pages at: `[YOUR GITHUB PAGES LINK HERE]`
 
 > 📊 **Pitch Deck:** https://docs.google.com/presentation/d/1pHkd2PxV8Y05y5kfK6L9GZicdfEsNTAwR27Sa5h4fxI/edit?usp=sharing
-> 🎥 **Pitch Video:** [[Watch the presentation]([VIDEO LINK HERE])](https://youtu.be/-8AgVv8j-8Q)
+> 🎥 **Pitch Video:** https://youtu.be/-8AgVv8j-8Q
 
 A hackathon project by Team TAG · Adaptavist Hack Day 2026
 
