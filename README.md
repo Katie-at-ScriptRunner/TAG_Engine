@@ -3,7 +3,7 @@
 > **⚠️ Backup:** If the Adaptaworks platform is unavailable, a static version of the project is hosted on GitHub Pages at: `[YOUR GITHUB PAGES LINK HERE]`
 
 > 📊 **Pitch Deck:** https://docs.google.com/presentation/d/1pHkd2PxV8Y05y5kfK6L9GZicdfEsNTAwR27Sa5h4fxI/edit?usp=sharing
-> 🎥 **Pitch Video:** [Watch the presentation]([VIDEO LINK HERE])
+> 🎥 **Pitch Video:** [[Watch the presentation]([VIDEO LINK HERE])](https://youtu.be/-8AgVv8j-8Q)
 
 A hackathon project by Team TAG · Adaptavist Hack Day 2026
 
@@ -48,20 +48,6 @@ Ada follows a simple four-step flow:
 Output is WCAG-accessible, with an overview-first structure and detail available on demand.
 
 ---
-
-## The Repo
-
-```
-tag-engine/
-├── README.md
-├── src/
-│   ├── ada/               # Core conversational agent logic
-│   ├── knowledge/         # Structured product knowledge base (ScriptRunner, Kolekti)
-│   ├── guardrails/        # DC vs Cloud filtering and fit-gap flagging
-│   └── ui/                # Chat interface (Ask Ada front end)
-├── prompts/               # System prompts and tool-call definitions
-└── docs/                  # Internal pitch deck and one-pager
-```
 
 The POC is deliberately scoped to two products to prove the model end-to-end:
 
